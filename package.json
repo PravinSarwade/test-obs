@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "buildd":"ng build --base-href='https://pravinsarwade.github.io/test-obs/'",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
